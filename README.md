@@ -1,4 +1,3 @@
-# tc-strg-test
+Test data for the tourcalc GitHub store.
 
-Tourcalc's tours, encrypted (XChaCha20-Poly1305). Written by the server (`StorageType=GitHub`);
-not to be edited by hand. Files: `t/` tours, `v/` their versions, `s` push subscriptions.
+Edited by hand at 17:18:57.
